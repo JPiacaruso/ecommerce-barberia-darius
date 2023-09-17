@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "imagen": "./img/p1.png",
+        "codigo": "1",
+        "nombre": "Navaja/navajin",
+        "marca": "Eurostil",
+        "precio": 2500
+    },
+    {
+        "id": 2,
+        "imagen": "./img/p2.png",
+        "codigo": "2",
+        "nombre": "Secador de Pelo",
+        "marca": "Gamma",
+        "precio": 1000
+    },
+    {
+        "id": 3,
+        "imagen": "./img/p3.png",
+        "codigo": "3",
+        "nombre": "Lavacabezas",
+        "marca": "Las Margaritas",
+        "precio": 79000
+    },
+    {
+        "id": 4,
+        "imagen": "./img/p4.png",
+        "codigo": "4",
+        "nombre": "Afeitadora",
+        "marca": "Phillips",
+        "precio": 13800
+    },
+    {
+        "id": 5,
+        "imagen": "./img/p5.png",
+        "codigo": "5",
+        "nombre": "Delantal de Barbero",
+        "marca": "Barber Shop",
+        "precio": 10770
+    },
+    {
+        "id": 6,
+        "imagen": "./img/p6.png",
+        "codigo": "6",
+        "nombre": "Kit de tijeras",
+        "marca": "Gadnic",
+        "precio": 18950
+    },
+    {
+        "id": 7,
+        "imagen": "./img/p7.png",
+        "codigo": "7",
+        "nombre": "Aceite de Barba",
+        "marca": "Ruh",
+        "precio": 2550
+    },
+    {
+        "id": 8,
+        "imagen": "./img/p8.png",
+        "codigo": "8",
+        "nombre": "Cepillo",
+        "marca": "Eurostil",
+        "precio": 1380
+    },
+    {
+        "id": 9,
+        "imagen": "./img/p9.png",
+        "codigo": "9",
+        "nombre": "Bálsamo After Shave",
+        "marca": "Nivea",
+        "precio": 1050
+    },
+    {
+        "id": 10,
+        "imagen": "./img/p10.png",
+        "codigo": "10",
+        "nombre": "Loción After Shave",
+        "marca": "Pinaud",
+        "precio": 7990
+    },
+    {
+        "id": 11,
+        "imagen": "./img/p11.png",
+        "codigo": "11",
+        "nombre": "Lubricante De Maquina",
+        "marca": "Yilho",
+        "precio": 1548
+    },
+    {
+        "id": 12,
+        "imagen": "./img/p12.png",
+        "codigo": "12",
+        "nombre": "Maquina Corte Wahl MC",
+        "marca": "Wahl",
+        "precio": 55990
+    },
+    {
+        "id": 13,
+        "imagen": "./img/p13.png",
+        "codigo": "13",
+        "nombre": "Repuestos Gillette Mach3",
+        "marca": "Gillete",
+        "precio": 1945
+    },
+    {
+        "id": 14,
+        "imagen": "./img/p14.png",
+        "codigo": "14",
+        "nombre": "Delantal de Jean",
+        "marca": "Peluqueria Full",
+        "precio": 2600
+    },
+    {
+        "id": 15,
+        "imagen": "./img/p15.png",
+        "codigo": "15",
+        "nombre": "Combo Tijeras + Navaja + Capa Corte",
+        "marca": "Treet Platinum",
+        "precio": 13600
+    }
+]
